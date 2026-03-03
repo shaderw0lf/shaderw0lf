@@ -1,11 +1,8 @@
 <h1 align="center">
-  Welcome to my page!
+  Welcome, Internet!
 </h1>
 
 <div align="center">
-  
-  My name is Fedora, and my nickname is fedd20.
-  
   I like to make projects that can be useful or can give bunch of new ideas what we can do new or convinient. Or just for fun.
   
 </div>
@@ -51,8 +48,7 @@
   ![Zed](https://img.shields.io/badge/zed-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 
   <h3>Operating Systems:</h3>
-
-  ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
+  
   ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   ![openSUSE (i love opensuse)](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)
@@ -78,5 +74,5 @@
 <div align="center">
 	<h1>Current projects</h2>
 
-  [![altamino/api](https://github-readme-stats.vercel.app/api/pin/?username=fedd20&repo=checkhost-cli&show_owner=true&theme=dark)](https://github.com/fedd20/checkhost-cli)
+  [![project](https://github-readme-stats.vercel.app/api/pin/?username=fedd20&repo=checkhost-cli&show_owner=true&theme=dark)](https://github.com/fedd20/checkhost-cli)
 </div>
