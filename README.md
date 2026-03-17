@@ -65,14 +65,14 @@
 <div align="center">
   <h1>GitHub Activity</h2>
 
-  ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=fedd20&show_icons=true&theme=dark&line_height=24)
-  ![How active I am in GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=fedd20&hide=java,html,tex&theme=dark&langs_count=8&layout=compact)
+  ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=shaderw0lf&show_icons=true&theme=dark&line_height=24)
+  ![How active I am in GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=shaderw0lf&theme=dark&langs_count=8&layout=compact)
 </div>
 
 
 
 <div align="center">
-	<h1>Current projects</h2>
+	<h1>My random projects</h2>
 
-  [![project](https://github-readme-stats.vercel.app/api/pin/?username=fedd20&repo=checkhost-cli&show_owner=true&theme=dark)](https://github.com/fedd20/checkhost-cli)
+  [![project](https://github-readme-stats.vercel.app/api/pin/?username=shaderw0lf&repo=checkhost-cli&show_owner=true&theme=dark)](https://github.com/fedd20/checkhost-cli)
 </div>
